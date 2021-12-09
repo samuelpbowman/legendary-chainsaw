@@ -1,0 +1,9 @@
+{
+  "name": "keepass-merger",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "keepass.io": "^1.1.4",
+    "mute-stream": "^0.0.8"
+  }
+}
